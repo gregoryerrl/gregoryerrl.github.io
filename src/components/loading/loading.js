@@ -13,7 +13,9 @@ const Loading = () => {
         <br />
         <span className="loadtext">Try interacting with the components</span>
         <br />
-        <span className="loadtext">Explore and Have fun!</span>
+        <span className="loadtext">
+          Click everything, explore and have fun!
+        </span>
       </div>
     </div>
   );
