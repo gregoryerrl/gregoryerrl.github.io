@@ -1,0 +1,28 @@
+.details-container {
+  max-width: 800px;
+  margin: auto;
+}
+.details-container h2 {
+  color: white;
+  width: 100%;
+  background-color: var(--orange);
+}
+
+.details-container ul {
+  list-style-type: none; /* Removes bullet points */
+  padding-left: 0; /* Removes default padding */
+}
+
+.card {
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: white !important;
+}
+
+.card-title {
+  color: var(--primary-color); /* Replace with your chosen color */
+}
+
+.card-body ul {
+  padding-left: 20px;
+}

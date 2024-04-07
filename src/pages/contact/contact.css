@@ -1,0 +1,15 @@
+h2 {
+  width: 100vw;
+  background-color: var(--violet);
+  color: white;
+  font-weight: 100;
+}
+
+.all {
+  font-size: 30px;
+  color: var(--violet);
+}
+
+.bg {
+  background-color: var(--orange);
+}

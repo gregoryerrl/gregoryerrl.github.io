@@ -1,0 +1,9 @@
+.loading-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--violet);
+}
+
+.loadtext {
+  color: white;
+}

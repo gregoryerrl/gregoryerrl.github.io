@@ -1,0 +1,17 @@
+.trailsText {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  color: black;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: -0.05em;
+  will-change: transform, opacity;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.trailsText > div {
+  padding-right: 0.05em;
+  overflow: hidden;
+}
